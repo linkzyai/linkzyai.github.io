@@ -1,0 +1,9 @@
+title: Linkzy Test Site A
+description: Sample posts about local search and customer reviews, published only to test Linkzy.
+url: https://linkzyai.github.io
+baseurl: ""
+permalink: /blog/:title/
+plugins:
+  - jekyll-sitemap
+exclude:
+  - README.md
