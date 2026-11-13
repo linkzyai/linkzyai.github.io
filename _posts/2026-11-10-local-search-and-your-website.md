@@ -7,4 +7,4 @@ A business profile on a map listing can only say so much. The website behind it 
 
 Each main service deserves its own page with a plain description, typical prices or price ranges where they can be given, and photographs of real jobs. Pages like these give local searchers a direct answer to what they typed.
 
-Checking which pages visitors from search actually land on shows where the website is doing its job. Pages that attract visits but no enquiries usually need a clearer next step, such as a phone number near the top.
+Checking which pages visitors from search actually land on shows where the website is doing its job. Pages that attract visits but no enquiries usually need a clearer next step, such as a phone number near the top. Reviewing performance metrics can be complemented by consulting resources focused on [search data analysis](https://linkzy-sandbox.github.io/) to understand customer behavior.
